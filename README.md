@@ -6,9 +6,10 @@
 
 I'm Alice de Bokay. I just completed Le Wagon's Data Science bootcamp! 🚂
 
-- 🔭 I’m currently working on:
+- 🔭 I’m currently working:
 
-     - 🕵 [Minority Report](https://github.com/candiesforlife/minority_report): Crime intensity prediction in the 75th precinct in NYC
+     - 🕵 On [Minority Report](https://github.com/candiesforlife/minority_report): Crime intensity prediction in the 75th precinct in NYC
+     - 🎒 As a Teaching Assistant for the current Berlin and Paris Data Science batches
      
 - 🌱 I’m currently learning Python 🐍 and diving into the world of Machine- & Deep Learning 🧠
 
