@@ -8,9 +8,9 @@ I'm Alice de Bokay. I just completed Le Wagon's Data Science bootcamp! 🚂
 
 - 🔭 I’m currently working:
 
-     - On [Kaggle's Telco Churn Challenge](https://github.com/acedb/telco_churn): Predicting customer retention
+     - 🎒 As a Teacher & Teaching Assistant for the current Berlin and Paris Data Science batches
+     - 📚 On [Kaggle Challenges](https://github.com/acedb/kaggle_challenges)
      - 🕵 On [Minority Report](https://github.com/candiesforlife/minority_report): Crime intensity prediction in the 75th precinct in NYC
-     - 🎒 As a Teaching Assistant for the current Berlin and Paris Data Science batches
      
 - 🌱 I’m currently learning Python 🐍 and diving into the world of Machine- & Deep Learning 🧠
 
